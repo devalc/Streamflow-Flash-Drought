@@ -1,0 +1,3 @@
+src/ignore/
+data/**/*.png
+.DS_Store
