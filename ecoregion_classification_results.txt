@@ -1,0 +1,111 @@
+ECOREGION-SPECIFIC FEATURE IMPORTANCE
+==================================================
+
+WestMnts:
+  P_SEASONALITY                 : 0.0217
+  PRE_MM_S02                    : 0.0176
+  PRE_MM_S01                    : 0.0143
+  ELEV_SITE_M                   : 0.0116
+  AET_MM_S04                    : 0.0111
+  SWC_PC_S02                    : 0.0106
+  CMI_IX_S11                    : 0.0106
+  RUN_MM_SYR                    : 0.0103
+  P_MEAN                        : 0.0102
+  PRE_MM_S12                    : 0.0101
+
+SEPlains:
+  DRAIN_SQKM                    : 0.0168
+  PET_MM_S02                    : 0.0164
+  HIRES_LENTIC_NUM              : 0.0137
+  PPD_PK_UAV                    : 0.0128
+  CLY_PC_UAV                    : 0.0118
+  RAW_AVG_DIS_ALLDAMS           : 0.0110
+  RDD_MK_UAV                    : 0.0103
+  LKV_MC_USU                    : 0.0102
+  LOW_PREC_DUR                  : 0.0096
+  RIV_TC_USU                    : 0.0096
+
+CntlPlains:
+  FRAC_SNOW                     : 0.0161
+  TMP_DC_S11                    : 0.0142
+  P_SEASONALITY                 : 0.0134
+  SNW_PC_S01                    : 0.0130
+  TMP_DC_S09                    : 0.0129
+  PET_MM_S01                    : 0.0128
+  PRE_MM_S02                    : 0.0116
+  TMP_DC_S03                    : 0.0114
+  PET_MM_S02                    : 0.0111
+  TMP_DC_S10                    : 0.0102
+
+NorthEast:
+  HIRES_LENTIC_MEANSIZ          : 0.0213
+  LKA_PC_USE                    : 0.0209
+  KFACT_UP                      : 0.0122
+  WET_PC_UG2                    : 0.0110
+  LKV_MC_USU                    : 0.0109
+  AET_MM_S09                    : 0.0099
+  WET_PC_U01                    : 0.0098
+  NO10AVE                       : 0.0096
+  DRAIN_SQKM                    : 0.0092
+  NO4AVE                        : 0.0092
+
+SECstPlain:
+  SOC_TH_UAV                    : 0.0221
+  ELEV_MEDIAN_M_BASIN           : 0.0168
+  ELEV_MEAN_M_BASIN             : 0.0147
+  OMAVE                         : 0.0136
+  WTDEPAVE                      : 0.0132
+  LKA_PC_USE                    : 0.0126
+  SND_PC_UAV                    : 0.0123
+  POP_CT_USU                    : 0.0120
+  LKV_MC_USU                    : 0.0118
+  RIA_HA_USU                    : 0.0117
+
+WestXeric:
+  HFT_IX_U93                    : 0.0140
+  HFT_IX_U09                    : 0.0103
+  ELE_MT_SMX                    : 0.0100
+  FOR_PC_USE                    : 0.0097
+  GDP_UD_USU                    : 0.0096
+  RDD_MK_UAV                    : 0.0091
+  ASPECT_EASTNESS               : 0.0089
+  FRAGUN_BASIN                  : 0.0087
+  NO200AVE                      : 0.0085
+  WTDEPAVE                      : 0.0082
+
+WestPlains:
+  GDP_UD_USU                    : 0.0111
+  POP_CT_USU                    : 0.0110
+  PRE_MM_S08                    : 0.0108
+  HIRES_LENTIC_DENS             : 0.0106
+  DIS_M3_PMN                    : 0.0094
+  ASPECT_DEGREES                : 0.0088
+  PRE_MM_S03                    : 0.0086
+  PRE_MM_S06                    : 0.0081
+  CRP_PC_USE                    : 0.0080
+  HIGH_PREC_DUR                 : 0.0080
+
+EastHghlnds:
+  REV_MC_USU                    : 0.0147
+  LKA_PC_USE                    : 0.0134
+  LKV_MC_USU                    : 0.0106
+  HIRES_LENTIC_MEANSIZ          : 0.0101
+  RUN_MM_SYR                    : 0.0099
+  DIS_M3_PYR                    : 0.0096
+  DIS_M3_PMN                    : 0.0092
+  NO10AVE                       : 0.0089
+  AWCAVE                        : 0.0089
+  HGC                           : 0.0085
+
+MxWdShld:
+  SGR_DK_SAV                    : 0.0174
+  LKA_PC_USE                    : 0.0140
+  ELEV_SITE_M                   : 0.0127
+  HIRES_LENTIC_MEANSIZ          : 0.0125
+  ASPECT_EASTNESS               : 0.0120
+  WET_PC_UG1                    : 0.0116
+  ELE_MT_SAV                    : 0.0115
+  SNW_PC_S04                    : 0.0114
+  TMP_DC_S03                    : 0.0112
+  HIRES_LENTIC_DENS             : 0.0110
+
