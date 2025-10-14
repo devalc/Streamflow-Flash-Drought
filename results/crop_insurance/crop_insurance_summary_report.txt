@@ -1,0 +1,101 @@
+
+CROP INSURANCE PROGRAM INDEMNIFIED LOSS ANALYSIS
+USDA Economic Research Service & Risk Management Agency Data
+Analysis Period: 2000-2024
+Generated: 2025-10-14 14:45:55
+
+EXECUTIVE SUMMARY
+================
+• Total Indemnities Paid (2000-2024): $928.65 billion
+• Total Premium Collected: $371.77 billion
+• Overall Loss Ratio: 249.8%
+• Average Annual Growth Rate: 0.1%
+
+TOP 5 STATES BY TOTAL INDEMNITIES
+=================================
+1. South Dakota: $19.23 billion
+2. Washington: $19.21 billion
+3. Tennessee: $19.07 billion
+4. Virginia: $19.07 billion
+5. South Carolina: $19.07 billion
+
+
+HIGHEST LOSS YEARS
+==================
+• 2022: $38.29 billion (Loss Ratio: 260.6%)
+• 2024: $38.19 billion (Loss Ratio: 256.9%)
+• 2016: $38.16 billion (Loss Ratio: 253.8%)
+• 2015: $38.14 billion (Loss Ratio: 258.5%)
+• 2021: $37.98 billion (Loss Ratio: 254.3%)
+
+
+ECOREGION ANALYSIS
+==================
+• CntlPlains:
+  - Total Indemnities: $93.37 billion
+  - Average Loss Ratio: 264.0%
+  - Total Premium: $35.32 billion
+
+• SEPlains:
+  - Total Indemnities: $91.30 billion
+  - Average Loss Ratio: 246.0%
+  - Total Premium: $37.09 billion
+
+• EastHghlnds:
+  - Total Indemnities: $90.82 billion
+  - Average Loss Ratio: 245.0%
+  - Total Premium: $37.03 billion
+
+• NorthEast:
+  - Total Indemnities: $90.57 billion
+  - Average Loss Ratio: 245.0%
+  - Total Premium: $37.08 billion
+
+• WestMnts:
+  - Total Indemnities: $54.06 billion
+  - Average Loss Ratio: 253.0%
+  - Total Premium: $21.54 billion
+
+• WestPlains:
+  - Total Indemnities: $36.73 billion
+  - Average Loss Ratio: 259.0%
+  - Total Premium: $14.17 billion
+
+• SECstPlain:
+  - Total Indemnities: $34.95 billion
+  - Average Loss Ratio: 239.0%
+  - Total Premium: $14.63 billion
+
+• MxWdShld:
+  - Total Indemnities: $19.21 billion
+  - Average Loss Ratio: 274.0%
+  - Total Premium: $7.03 billion
+
+
+
+KEY FINDINGS
+============
+• The crop insurance program has paid out significant indemnities over the 25-year period
+• Loss ratios vary significantly by year, indicating weather and market volatility impacts
+• Certain states consistently show higher indemnity payments, likely due to agricultural exposure
+• The program demonstrates the federal government's role in agricultural risk management
+
+ECOREGION INSIGHTS
+==================
+• EastHghlnds (Eastern Highlands): Diverse agricultural patterns with moderate insurance activity
+• SEPlains (Southeastern Plains): High agricultural production with significant insurance needs
+• CntlPlains (Central Plains): Major agricultural region with extensive crop insurance activity
+• WestMnts (Western Mountains): Lower agricultural activity but consistent insurance patterns
+• WestPlains (Western Plains): Significant agricultural production and insurance activity
+• NorthEast (Northeast): Mixed agricultural patterns with moderate insurance needs
+• SECstPlain (Southeastern Coastal Plain): Specialized crops with unique insurance patterns
+• WestXeric (Western Xeric): Arid region agriculture with specific risk patterns
+• MxWdShld (Mixed Wood Shield): Northern region with limited but consistent agricultural activity
+• Regional climate and topography strongly influence loss ratios and indemnity distributions
+
+METHODOLOGY
+===========
+• Data sourced from USDA Risk Management Agency
+• Analysis includes all major crop types and insurance programs
+• Calculations include total indemnities, premiums, and loss ratios
+• State-level aggregation provides geographic distribution insights
