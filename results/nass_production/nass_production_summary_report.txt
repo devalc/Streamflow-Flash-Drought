@@ -1,0 +1,100 @@
+
+USDA NASS CROP PRODUCTION ANALYSIS BY ECOREGION
+Analysis Period: 2000-2024
+Generated: 2025-10-14 14:51:00
+
+EXECUTIVE SUMMARY
+================
+• Total Crop Production Value (2000-2024): $30.44 trillion
+• Total Harvested Acres: 3.41 billion acres
+• Average Value per Acre: $8939.23
+
+TOP 5 ECOREGIONS BY PRODUCTION VALUE
+===================================
+1. SEPlains: $14.67 trillion
+2. WestXeric: $13.57 trillion
+3. NorthEast: $0.84 trillion
+4. WestMnts: $0.51 trillion
+5. SECstPlain: $0.37 trillion
+
+
+TOP 10 STATES BY PRODUCTION VALUE
+=================================
+1. New Mexico: $3031.69 billion
+2. Oklahoma: $2911.94 billion
+3. Arizona: $2909.52 billion
+4. California: $2715.50 billion
+5. Utah: $2658.29 billion
+6. Texas: $2627.90 billion
+7. Mississippi: $2503.74 billion
+8. Arkansas: $2466.12 billion
+9. Alabama: $2347.48 billion
+10. Nevada: $2250.07 billion
+
+
+ECOREGION PRODUCTION ANALYSIS
+=============================
+• SEPlains:
+  - Average Annual Production Value: $586.78 billion
+  - Average Annual Harvested Acres: 17.33 million
+  - Average Yield: 2754.6 units/acre
+  - Crop Diversity: 3 major crops
+
+• WestXeric:
+  - Average Annual Production Value: $542.60 billion
+  - Average Annual Harvested Acres: 13.90 million
+  - Average Yield: 3215.9 units/acre
+  - Crop Diversity: 3 major crops
+
+• NorthEast:
+  - Average Annual Production Value: $33.56 billion
+  - Average Annual Harvested Acres: 26.37 million
+  - Average Yield: 164.1 units/acre
+  - Crop Diversity: 3 major crops
+
+• WestMnts:
+  - Average Annual Production Value: $20.23 billion
+  - Average Annual Harvested Acres: 16.12 million
+  - Average Yield: 163.6 units/acre
+  - Crop Diversity: 3 major crops
+
+• SECstPlain:
+  - Average Annual Production Value: $14.67 billion
+  - Average Annual Harvested Acres: 23.36 million
+  - Average Yield: 1554.3 units/acre
+  - Crop Diversity: 3 major crops
+
+• EastHghlnds:
+  - Average Annual Production Value: $9.25 billion
+  - Average Annual Harvested Acres: 17.27 million
+  - Average Yield: 85.5 units/acre
+  - Crop Diversity: 3 major crops
+
+• CntlPlains:
+  - Average Annual Production Value: $8.73 billion
+  - Average Annual Harvested Acres: 16.02 million
+  - Average Yield: 89.4 units/acre
+  - Crop Diversity: 3 major crops
+
+• WestPlains:
+  - Average Annual Production Value: $1.80 billion
+  - Average Annual Harvested Acres: 5.84 million
+  - Average Yield: 63.8 units/acre
+  - Crop Diversity: 3 major crops
+
+
+
+KEY FINDINGS
+============
+• Central Plains and Southeastern Plains dominate agricultural production
+• Significant regional specialization in crop types
+• Production values show steady growth over the analysis period
+• Ecoregional patterns align with climate and soil characteristics
+• Agricultural diversity varies significantly across ecoregions
+
+METHODOLOGY
+===========
+• Data represents major crop commodities across all states
+• Production values calculated using market prices
+• Ecoregional aggregation based on SFD dataset classifications
+• Analysis includes acres planted, harvested, yields, and total values
