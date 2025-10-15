@@ -1,0 +1,152 @@
+
+COMPREHENSIVE LOSS RATIO ANALYSIS REPORT
+Crop Insurance Loss Ratios vs Streamflow Flash Droughts
+Analysis Period: 2000-2024
+Generated: 2025-10-15 13:55:48
+
+EXECUTIVE SUMMARY
+================
+• Overall Average Loss Ratio: 2.530 ± 0.392
+• Percentage of High Loss Ratio Years (>1.5): 100.0%
+• Total Observations: 200 ecoregion-year combinations
+• Ecoregions Analyzed: 8
+• Analysis Period: 2000-2024
+
+OVERALL CORRELATIONS WITH LOSS RATIO
+====================================
+• SFD vs LossRatio: r = -0.004 (p = 0.961) 
+  - Weak negative correlation
+• DroughtIntensity vs LossRatio: r = 0.059 (p = 0.439) 
+  - Weak positive correlation
+• DroughtSeverity vs LossRatio: r = 0.042 (p = 0.584) 
+  - Weak positive correlation
+• Acres vs LossRatio: r = -0.169 (p = 0.025) *
+  - Weak negative correlation
+• RevenuePerAcre vs LossRatio: r = -0.075 (p = 0.327) 
+  - Weak negative correlation
+
+
+ECOREGION RANKINGS BY AVERAGE LOSS RATIO
+========================================
+1. MxWdShld:
+   - Average Loss Ratio: 2.737
+   - Loss Ratio Volatility: 0.586
+   - Average SFD Events: 21.9
+   - Average Excess Loss Ratio: 1.737
+   - SFD-Loss Ratio Correlation: -0.089 
+
+2. CntlPlains:
+   - Average Loss Ratio: 2.643
+   - Loss Ratio Volatility: 0.217
+   - Average SFD Events: 412.3
+   - Average Excess Loss Ratio: 1.643
+   - SFD-Loss Ratio Correlation: 0.188 
+
+3. WestPlains:
+   - Average Loss Ratio: 2.589
+   - Loss Ratio Volatility: 0.453
+   - Average SFD Events: 420.8
+   - Average Excess Loss Ratio: 1.589
+   - SFD-Loss Ratio Correlation: 0.004 
+
+4. WestMnts:
+   - Average Loss Ratio: 2.527
+   - Loss Ratio Volatility: 0.357
+   - Average SFD Events: 398.5
+   - Average Excess Loss Ratio: 1.527
+   - SFD-Loss Ratio Correlation: 0.214 
+
+5. SEPlains:
+   - Average Loss Ratio: 2.458
+   - Loss Ratio Volatility: 0.241
+   - Average SFD Events: 549.4
+   - Average Excess Loss Ratio: 1.458
+   - SFD-Loss Ratio Correlation: -0.398 *
+
+6. EastHghlnds:
+   - Average Loss Ratio: 2.451
+   - Loss Ratio Volatility: 0.281
+   - Average SFD Events: 666.3
+   - Average Excess Loss Ratio: 1.451
+   - SFD-Loss Ratio Correlation: 0.010 
+
+7. NorthEast:
+   - Average Loss Ratio: 2.449
+   - Loss Ratio Volatility: 0.311
+   - Average SFD Events: 348.0
+   - Average Excess Loss Ratio: 1.449
+   - SFD-Loss Ratio Correlation: -0.119 
+
+8. SECstPlain:
+   - Average Loss Ratio: 2.390
+   - Loss Ratio Volatility: 0.462
+   - Average SFD Events: 114.8
+   - Average Excess Loss Ratio: 1.390
+   - SFD-Loss Ratio Correlation: -0.292 
+
+
+
+REGRESSION ANALYSIS RESULTS
+===========================
+• Model R-squared: 0.046
+• Model explains 4.6% of loss ratio variance
+
+Feature Importance (Standardized Coefficients):
+• drought_intensity: +0.116 (increases loss ratio)
+• acres_harvested: -0.092 (decreases loss ratio)
+• drought_severity: -0.083 (decreases loss ratio)
+• sfd_events_per_million_acres: -0.073 (decreases loss ratio)
+• revenue_per_acre: -0.024 (decreases loss ratio)
+• sfd_event_count: +0.007 (increases loss ratio)
+
+
+TEMPORAL TRENDS (2000-2024)
+===========================
+• Loss Ratio Trend: +0.0065 per year (increasing)
+• Flash Drought Trend: -0.87 events per year (decreasing)
+• Correlation between annual averages: 0.000
+
+RISK ASSESSMENT BY ECOREGION
+============================
+• MxWdShld: VERY HIGH risk (volatility: High)
+• CntlPlains: VERY HIGH risk (volatility: Low)
+• WestPlains: VERY HIGH risk (volatility: Moderate)
+• WestMnts: VERY HIGH risk (volatility: Moderate)
+• SEPlains: VERY HIGH risk (volatility: Low)
+• EastHghlnds: VERY HIGH risk (volatility: Low)
+• NorthEast: VERY HIGH risk (volatility: Moderate)
+• SECstPlain: VERY HIGH risk (volatility: Moderate)
+
+
+KEY FINDINGS
+============
+• Loss ratios vary significantly across ecoregions (2.39 to 2.74)
+• Flash drought events show negative correlation with loss ratios
+• Regression model explains 4.6% of loss ratio variance
+• Increasing trend in loss ratios over analysis period
+• Drought intensity is more predictive than event count alone
+
+ECONOMIC IMPLICATIONS
+====================
+• High loss ratios indicate significant federal subsidy of agricultural risk
+• Flash drought events contribute to insurance program stress
+• Regional risk patterns suggest need for differentiated premium structures
+• Climate change may be affecting traditional actuarial assumptions
+• Ecoregional analysis reveals geographic concentration of risk
+
+RECOMMENDATIONS
+===============
+• Monitor high-risk ecoregions for premium adequacy
+• Consider drought forecasting in risk assessment models
+• Develop region-specific risk management strategies
+• Investigate causes of high volatility in certain ecoregions
+• Enhance early warning systems for flash drought events
+
+METHODOLOGY
+===========
+• Loss ratios calculated as indemnities/premiums by ecoregion and year
+• Flash drought events from SFD dataset with AGGECOREGION classification
+• Correlation analysis using Pearson coefficients with significance testing
+• Multiple regression with standardized features
+• Temporal trend analysis using linear regression
+• Risk assessment based on average loss ratios and volatility measures

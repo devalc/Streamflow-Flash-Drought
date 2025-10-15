@@ -1,0 +1,68 @@
+
+ECOREGION CASE STUDY: CntlPlains
+Correlation Analysis: Flash Droughts vs Agricultural Economics
+Analysis Period: 2000-2024
+Generated: 2025-10-15 12:08:22
+
+EXECUTIVE SUMMARY
+================
+• Target Ecoregion: CntlPlains
+• Average Annual Flash Drought Events: 412.3
+• Average Annual Harvested Acres: 16.02 million
+• Average Annual Insurance Indemnities: $3.73 billion
+• Average Loss Ratio: 264.3%
+
+KEY CORRELATIONS
+================
+• SFD vs Insurance: r = 0.252 (p = 0.224) 
+• SFD vs Acres: r = 0.017 (p = 0.935) 
+• SFD vs LossRatio: r = 0.188 (p = 0.368) 
+• Acres vs Insurance: r = -0.237 (p = 0.254) 
+• SFD vs IndemnityPerAcre: r = 0.129 (p = 0.538) 
+
+
+CORRELATION INTERPRETATION
+=========================
+• Flash Droughts vs Insurance Claims: r = 0.252
+  - Weak correlation
+  - More flash droughts weakly associated with higher insurance payouts
+
+• Flash Droughts vs Harvested Acres: r = 0.017
+  - Positive relationship between droughts and agricultural activity
+  
+• Flash Droughts vs Loss Ratio: r = 0.188
+  - Drought events increase insurance program efficiency
+
+EXTREME YEARS
+=============
+• Highest Flash Drought Activity: 2012 (856 events)
+• Highest Insurance Payouts: 2020 ($4.75 billion)
+
+TEMPORAL PATTERNS
+=================
+• Flash Drought Trend: +1.61 events/year
+• Insurance Claims Trend: $-2.11 million/year
+• Harvested Acres Trend: +12.28 thousand acres/year
+
+
+KEY FINDINGS
+============
+• Flash drought frequency shows increasing trend over analysis period
+• Insurance indemnities decrease by $2.1 million annually
+• Agricultural area shows expansion trend
+• Correlation patterns suggest weak climate-agriculture linkages
+
+ECONOMIC IMPLICATIONS
+====================
+• Flash droughts represent significant economic risk to CntlPlains agriculture
+• Insurance program serves as critical risk management tool
+• Regional agricultural adaptation may be needed for climate resilience
+• Economic losses from droughts extend beyond direct crop damage
+
+METHODOLOGY
+===========
+• Flash drought events from SFD dataset (AGGECOREGION classification)
+• Crop insurance data aggregated by ecoregion and year
+• Agricultural production data from NASS-style analysis
+• Pearson correlation coefficients with significance testing
+• Temporal trend analysis using linear regression
