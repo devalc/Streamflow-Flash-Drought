@@ -18,6 +18,17 @@ print(f"Dataset shape: {df.shape}")
 print(f"Date range: {df['Onset_Time'].min()} to {df['Onset_Time'].max()}")
 print(f"Unique ecoregions: {df['AGGECOREGION'].nunique()}")
 
+# Check available dam-related columns
+dam_columns = ['RAW_DIS_NEAREST_DAM', 'RAW_AVG_DIS_ALLDAMS', 'RAW_DIS_NEAREST_MAJ_DAM', 
+               'RAW_AVG_DIS_ALL_MAJ_DAMS', 'FRESHW_WITHDRAWAL']
+available_dam_cols = [col for col in dam_columns if col in df.columns]
+print(f"Available dam-related columns: {available_dam_cols}")
+
+# Check for missing values in dam columns
+for col in available_dam_cols:
+    missing_pct = (df[col].isna().sum() / len(df)) * 100
+    print(f"{col}: {missing_pct:.1f}% missing values")
+
 # Convert Onset_Time to datetime if it's not already
 df['Onset_Time'] = pd.to_datetime(df['Onset_Time'])
 
