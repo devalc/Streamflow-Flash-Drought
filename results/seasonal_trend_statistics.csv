@@ -1,0 +1,13 @@
+Season,Metric,Total_Stations_With_Data,Increasing_Trends,Decreasing_Trends,No_Trend,Total_Significant_Trends,Percent_With_Significant_Trends
+Winter,Duration,1836,33,125,1678,158,8.6%
+Winter,Flow,1836,103,47,1686,150,8.2%
+Winter,Count,1836,1,8,1827,9,0.5%
+Spring,Duration,2106,61,91,1954,152,7.2%
+Spring,Flow,2106,115,71,1920,186,8.8%
+Spring,Count,2106,0,3,2103,3,0.1%
+Summer,Duration,2049,73,108,1868,181,8.8%
+Summer,Flow,2049,108,83,1858,191,9.3%
+Summer,Count,2049,10,12,2027,22,1.1%
+Fall,Duration,2044,60,81,1903,141,6.9%
+Fall,Flow,2044,125,67,1852,192,9.4%
+Fall,Count,2044,5,8,2031,13,0.6%

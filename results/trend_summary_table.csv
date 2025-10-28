@@ -1,0 +1,10 @@
+Metric,Trend,Total_Stations,Significant_Stations,Percentage
+Duration (days),Increasing,77,77,3.6%
+Duration (days),Decreasing,181,181,8.4%
+Duration (days),No Trend,1899,0,88.0%
+Flow Percentile (%),Increasing,219,219,10.2%
+Flow Percentile (%),Decreasing,110,110,5.1%
+Flow Percentile (%),No Trend,1828,0,84.7%
+Event Count (per year),Increasing,128,128,5.9%
+Event Count (per year),Decreasing,95,95,4.4%
+Event Count (per year),No Trend,1934,0,89.7%

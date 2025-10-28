@@ -1,0 +1,37 @@
+Season,Metric,Trend,Total_Stations,Significant_Stations,Percentage
+Winter,Duration (days),Increasing,33,33,1.5%
+Winter,Duration (days),Decreasing,125,125,5.8%
+Winter,Duration (days),No Trend,1678,0,77.8%
+Winter,Flow (%),Increasing,103,103,4.8%
+Winter,Flow (%),Decreasing,47,47,2.2%
+Winter,Flow (%),No Trend,1686,0,78.2%
+Winter,Count (count),Increasing,1,1,0.0%
+Winter,Count (count),Decreasing,8,8,0.4%
+Winter,Count (count),No Trend,1827,0,84.7%
+Spring,Duration (days),Increasing,61,61,2.8%
+Spring,Duration (days),Decreasing,91,91,4.2%
+Spring,Duration (days),No Trend,1954,0,90.6%
+Spring,Flow (%),Increasing,115,115,5.3%
+Spring,Flow (%),Decreasing,71,71,3.3%
+Spring,Flow (%),No Trend,1920,0,89.0%
+Spring,Count (count),Increasing,0,0,0.0%
+Spring,Count (count),Decreasing,3,3,0.1%
+Spring,Count (count),No Trend,2103,0,97.5%
+Summer,Duration (days),Increasing,73,73,3.4%
+Summer,Duration (days),Decreasing,108,108,5.0%
+Summer,Duration (days),No Trend,1868,0,86.6%
+Summer,Flow (%),Increasing,108,108,5.0%
+Summer,Flow (%),Decreasing,83,83,3.8%
+Summer,Flow (%),No Trend,1858,0,86.1%
+Summer,Count (count),Increasing,10,10,0.5%
+Summer,Count (count),Decreasing,12,12,0.6%
+Summer,Count (count),No Trend,2027,0,94.0%
+Fall,Duration (days),Increasing,60,60,2.8%
+Fall,Duration (days),Decreasing,81,81,3.8%
+Fall,Duration (days),No Trend,1903,0,88.2%
+Fall,Flow (%),Increasing,125,125,5.8%
+Fall,Flow (%),Decreasing,67,67,3.1%
+Fall,Flow (%),No Trend,1852,0,85.9%
+Fall,Count (count),Increasing,5,5,0.2%
+Fall,Count (count),Decreasing,8,8,0.4%
+Fall,Count (count),No Trend,2031,0,94.2%
